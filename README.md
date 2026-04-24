@@ -1,3 +1,9 @@
+# SalesSync AI 🤖
+
+🚀 [Open Live App](https://sales-agent-ai-p7wrqtm6efefbdj4c99asb.streamlit.app/)
+
+---
+
 Project name: SalesSync AI: Multi-Agent Outreach Engine.
 
 Description: An automated sales engineering pipeline that uses five specialized AI agents to transform company names into research-backed, high-conversion scripts.
