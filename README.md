@@ -15,3 +15,8 @@ Usage instructions: Run streamlit run app.py, input the target company and produ
 Features: Includes 16-turn iterative search loops, technical persona mapping, strategic "Value Bridge" creation, and an automated 1-10 quality scorecard audit.
 
 Contributing guidelines: Fork the repo, submit a feature branch via Pull Request, and ensure all new agent logic follows the established sequential pipeline architecture.
+
+
+
+LOOM VIDEO
+🎥 [Watch Demo Video](https://www.loom.com/share/ddfcc1eb12874b11bb942b3488b7b1fb)
